@@ -1,4 +1,4 @@
-Berikut adalah draf isi file `README.md` yang rapi dan profesional untuk repositori **gemini-chatbot-api-batch28**:
+
 
 ```markdown
 # 🤖 Gemini Chatbot API (Batch 28)
