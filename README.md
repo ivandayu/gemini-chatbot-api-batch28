@@ -1,7 +1,5 @@
-Saya sudah cek repositori [gemini-chatbot-api-batch28 di GitHub](https://github.com/ivandayu/gemini-chatbot-api-batch28). README yang sekarang memang masih generik dan ada beberapa bagian yang **tidak sesuai dengan kode sebenarnya**. Contohnya, project-mu murni **Node.js + Express**, menggunakan `@google/genai`, endpoint menerima `conversation` (bukan `message`), dan response backend berbentuk `{ "result": ... }`. 
 
-Saya sarankan README diganti dengan versi berikut. Saya buat sekaligus menjelaskan **backend, pengujian Postman, frontend folder `public`, alur kerja aplikasi, dan struktur project**.
-
+=
 # ✈️ Liburan Yuk — Gemini AI Travel Chatbot
 
 **Liburan Yuk** adalah aplikasi chatbot berbasis web yang menggunakan **Google Gemini AI** untuk membantu pengguna merencanakan liburan.
